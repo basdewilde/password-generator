@@ -1,2 +1,2 @@
 # password-generator
-This is a python project of a simple password generator
+This is the feature branch of the password generator 
